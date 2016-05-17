@@ -2,9 +2,9 @@
         __________________________________________
           ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
 Une constitution libre pour un peuple libre auto-déterminé !
-          _____________________________________
-        ¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨¨
-        
+                 
+                 ^^^^^^^^^^^^^^^^^^^^^
+
 + Une constitution libre est une constitution toujours modifiable dont toutes les propositions et validations des modifications se font de manière directe par les constitués. 
 + Une constitution libre ne saurait être imposée à quiconque.
 + Une constitution libre peut être reprise, modifiée et publiée librement par n'importe quel individu.
